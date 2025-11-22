@@ -30,7 +30,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <a href='https://nadeenmd.vercel.app/' target="_blank"><img alt='WEB PAGE' src='https://img.shields.io/badge/-Web%20Page-blue?style=for-the-badge&logo=google&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://nadeenweb.onrender.com/pair' target="_blank"><img alt='Pair Code ' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://nadeen-pair.onrender.com/pair' target="_blank"><img alt='Pair Code ' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
 <a href='https://nadeenweb.onrender.com/qr' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Qr Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
